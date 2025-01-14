@@ -38,5 +38,19 @@
 ### Installation
 
 1. Clone this repository:
-   ```bash
    git clone https://github.com/your-username/cocuk-notasi.git
+
+2. Navigate to the project directory:
+   cd cocuk-notasi
+
+3. Install dependencies:
+   npm install
+
+4. Run the application:
+   npm start
+
+## Contributing
+Contributions are welcome! Please open an issue or submit a pull request for any improvements or features you'd like to add.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for details.

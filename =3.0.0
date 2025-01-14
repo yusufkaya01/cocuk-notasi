@@ -1,0 +1,21 @@
+yarn add v1.22.22
+[1/4] Resolving packages...
+[2/4] Fetching packages...
+[3/4] Linking dependencies...
+[4/4] Building fresh packages...
+success Saved lockfile.
+success Saved 7 new dependencies.
+info Direct dependencies
+├─ @react-native-picker/picker@2.11.0
+├─ react-native-gesture-handler@2.22.0
+├─ react-native-safe-area-context@5.1.0
+└─ react-native-screens@4.5.0
+info All dependencies
+├─ @egjs/hammerjs@2.0.17
+├─ @react-native-picker/picker@2.11.0
+├─ @types/hammerjs@2.0.46
+├─ react-freeze@1.0.4
+├─ react-native-gesture-handler@2.22.0
+├─ react-native-safe-area-context@5.1.0
+└─ react-native-screens@4.5.0
+Done in 7.86s.
